@@ -19,10 +19,12 @@
 The purpose of this project is to find some information about prices and places to stay in Rio de Janeiro and serve as a simple but useful guide for travelers. This project was developed in Python using Jupyter notebooks.
 
 <h3>Libraries</h3>
-* Pandas
-* Numpy
-* matplotlib
-  
+<ul>
+<li>Pandas</li>
+<li>Numpy</li>
+<li>matplotlib</li>
+</ul>
+
 <h3>Files</h3>
 * <a href = "">main.ipynb</a><span>: Main file.</span>
 
