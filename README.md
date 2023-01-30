@@ -1,5 +1,5 @@
 
-<h2 align="center">Cidade Maravilhosa: Where to stay and how much to pay?</h2>
+<h1 align="center">Cidade Maravilhosa: Where to stay and how much to pay?</h1>
 
 <p align="center">
   <img src="https://github.com/matheusamc/udacity_datascience_nanodegree_blogpost/blob/main/baixados.jpg" alt="Rio de Janeiro" width="200" height="165">
@@ -11,23 +11,22 @@
   <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Reques</a>
 </p>
 
-
 <h2>Cidade Maravilhosa: Where to stay and how much to pay?</h2>
 <text>A data based approach using Airbnb's data from 2022 to find best prices and areas to stay in the city of Rio de Janeiro. This project is part of the Udacity Data Science Nanodegree.</text>
 
-## Project Intro
+<h2>Project Intro</h2>
 
 The purpose of this project is to find some information about prices and places to stay in Rio de Janeiro and serve as a simple but useful guide for travelers. This project was developed in Python using Jupyter notebooks.
 
-### Libraries
+<h3>Libraries</h3>
 * Pandas
 * Numpy
 * matplotlib
   
-### Files
+<h3>Files</h3>
 * <a href = "">main.ipynb</a><span>: Main file.</span>
 
-## Project Description
+<h2>Project Description</h2>
 This project is part of the requirements of the Udacity Data Science Nanodegree. In this project we want to explorer the avaible data from <a href="http://insideairbnb.com/rio-de-janeiro/">Inside Airbnb</a> for the listings in Rio de Janeiro for the year of 2022. Taking a closer look at this data we expect to answer the following questions:
 
 * <i>What neighbourhoods have the most listing oportunities?</i>
@@ -37,13 +36,13 @@ This project is part of the requirements of the Udacity Data Science Nanodegree.
 
 We will make use of some Python libraries in a Jupyter notebook and the knowledge achieved in the course to answer these questions.
 
-## Summary of Results
+<h2>Summary of Results</h2>
 
-## Creator
+<h2>Creator</h2>
 
-**Matheus Campos**
+<h3>Matheus Campos</h3>
 
 - <https://br.linkedin.com/in/matheus-de-abreu-monteiro-campos-90506aa2>
 - <https://github.com/matheusamc>
 
-## Aknowledgements
+<h2>Aknowledgements</h2>
