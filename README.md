@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/matheusamc/udacity_datascience_nanodegree_blogpost/blob/main/baixados.jpg" alt="Rio de Janeiro" width="200" height="165">
+  <img src="https://raw.github.com/matheusamc/udacity_datascience_nanodegree_blogpost/blob/main/baixados.jpg" alt="Rio de Janeiro" width="200" height="165">
 </p>
 
 <h3 align="center">Bootstrap</h3>
