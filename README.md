@@ -35,9 +35,15 @@ This project is part of the requirements of the Udacity Data Science Nanodegree.
 * <i>What time of the year to come paying better prices?</i>
 * <i>What places to stay paying better prices?</i>
 
-## Creators
+We will make use of some Python libraries in a Jupyter notebook and the knowledge achieved in the course to answer these questions.
+
+## Summary of Results
+
+## Creator
 
 **Matheus Campos**
 
 - <https://br.linkedin.com/in/matheus-de-abreu-monteiro-campos-90506aa2>
 - <https://github.com/matheusamc>
+
+## Aknowledgements
