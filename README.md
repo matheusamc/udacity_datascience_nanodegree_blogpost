@@ -13,8 +13,19 @@
 
 ## Cidade Maravilhosa: Where to stay and how much to pay?
 
-This project is part of the Udacity Data Science Nanodegree. 
+A data based approach using Airbnb's data from 2022 to find best prices and areas to stay in the city of Rio de Janeiro. This project is part of the Udacity Data Science Nanodegree. 
 
+## Project Intro
+
+The purpose of this project is to find some information about prices and places to stay in Rio de Janeiro and serve as a simple but useful guide for travelers. This project was developed in Python using Jupyter notebooks.
+
+### Libraries
+* Pandas
+* Numpy
+* matplotlib
+  
+### Files
+<a href = "">main<a>
 
 ## Creators
 
