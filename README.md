@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Reques
+  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Reques</a>
 </p>
 
 
@@ -25,7 +25,7 @@ The purpose of this project is to find some information about prices and places 
 * matplotlib
   
 ### Files
-* <a href = "">main<a>
+* <a href = "">main.ipynb</a> 
 
 ## Creators
 
