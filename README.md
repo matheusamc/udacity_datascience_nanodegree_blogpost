@@ -30,10 +30,10 @@ The purpose of this project is to find some information about prices and places 
 ## Project Description
 This project is part of the requirements of the Udacity Data Science Nanodegree. In this project we want to explorer the avaible data from Inside Airbnb for the listings in Rio de Janeiro for the year of 2022. Taking a closer look at this data we expect to answer the following questions:
 
-* What neighbourhoods have the most listing oportunities?
-* What price is expected to pay in these places during the main events in the city?
-* What time of the year to come paying better prices?
-* What places to stay paying better prices?
+* <i>What neighbourhoods have the most listing oportunities?</i>
+* <i>What price is expected to pay in these places during the main events in the city?</i>
+* <i>What time of the year to come paying better prices?</i>
+* <i>What places to stay paying better prices?</i>
 
 ## Creators
 
