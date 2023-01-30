@@ -25,7 +25,7 @@ The purpose of this project is to find some information about prices and places 
 * matplotlib
   
 ### Files
-<a href = "">main<a>
+* <a href = "">main<a>
 
 ## Creators
 
