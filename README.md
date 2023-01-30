@@ -25,7 +25,7 @@ The purpose of this project is to find some information about prices and places 
 * matplotlib
   
 ### Files
-* <a href = "">main.ipynb</a><span> Main file</span>
+* <a href = "">main.ipynb</a><span>: Main file.</span>
 
 ## Creators
 
