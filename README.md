@@ -12,7 +12,7 @@
 </p>
 
 
-<h2>Cidade Maravilhosa: Where to stay and how much to pay?<h/2>
+<h2>Cidade Maravilhosa: Where to stay and how much to pay?</h2>
 <text>A data based approach using Airbnb's data from 2022 to find best prices and areas to stay in the city of Rio de Janeiro. This project is part of the Udacity Data Science Nanodegree.</text>
 
 ## Project Intro
