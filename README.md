@@ -27,7 +27,11 @@
 
 <h3>Files</h3>
 <ul>
-  <li><a href = "">main.ipynb</a><span>: Main file.</span></li>
+  <li><a href = "">main.ipynb</a><span>: Notebook containing the data analisys and results.</span></li>
+  <li><a href = "">listings.csv</a><span>: Csv file containing the avaiable listings description and data.</span></li>
+  <li><a href = "">calendar.csv</a><span>: Csv file containing the avaiable listings data for the year of 2023.</span></li>
+  <li><a href = "">review.csv</a><span>: Csv file containing the reviews data.</span></li>
+  <li><a href = "">neighbourhoods.csv</a><span>: Csv file containing the neghborhoods names in Rio.</span></li>
 </ul>
 
 <h2>Project Description</h2>
