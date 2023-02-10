@@ -47,8 +47,8 @@
 <h2>Creator</h2>
 <h3>Matheus Campos</h3>
   <ul>
-    <li><a href="https://br.linkedin.com/in/matheus-de-abreu-monteiro-campos-90506aa2"></a></li>
-    <li><a href="https://github.com/matheusamc"></a></li>
+    <li><a href="https://br.linkedin.com/in/matheus-de-abreu-monteiro-campos-90506aa2">LinkedIn</a></li>
+    <li><a href="https://github.com/matheusamc"></a>Github Repository</li>
   </ul>
   
 <h2>Acknowledgements</h2>
