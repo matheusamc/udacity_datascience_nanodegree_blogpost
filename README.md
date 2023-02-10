@@ -40,7 +40,7 @@
   <p>We will make use of some Python libraries in a Jupyter notebook and the knowledge achieved in the course to answer these questions.</p>
 
 <h2>Summary of Results</h2>
-    <p>The results are detailed present in <a href="https://medium.com/@matheusamc/cidade-maravilhosa-when-to-visit-1a35d1ba7e1f">this post</a>.</p>
+    <p>The results are detailed presented in <a href="https://medium.com/@matheusamc/cidade-maravilhosa-when-to-visit-1a35d1ba7e1f">this post</a>.</p>
     
 <h2>Creator</h2>
 <h3>Matheus Campos</h3>
