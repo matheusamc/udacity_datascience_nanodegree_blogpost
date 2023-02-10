@@ -5,12 +5,6 @@
   <img src="https://github.com/matheusamc/udacity_datascience_nanodegree_blogpost/blob/main/baixados.jpg" alt="Rio de Janeiro" width="200" height="165">
 </p>
 
-<p align="center">
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a>
-  ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Reques</a>
-</p>
-
 <h2>Cidade Maravilhosa: Where to stay and how much to pay?</h2>
 <p>A data based approach using Airbnb's data from 2022 to find best prices and areas to stay in the city of Rio de Janeiro. This project is part of the Udacity Data Science Nanodegree.</p>
 
@@ -27,7 +21,11 @@
 
 <h3>Files</h3>
 <ul>
-  <li><a href = "">main.ipynb</a><span>: Main file.</span></li>
+  <li><a href = "">blog_post_project.ipynb</a><span>: Notebook containing the data analisys and results.</span></li>
+  <li><a href = "">listings.csv</a><span>: Csv file containing the avaiable listings description and data.</span></li>
+  <li><a href = "">calendar.csv</a><span>: Csv file containing the avaiable listings data for the year of 2023.</span></li>
+  <li><a href = "">review.csv</a><span>: Csv file containing the reviews data.</span></li>
+  <li><a href = "">neighbourhoods.csv</a><span>: Csv file containing the neghborhoods names in Rio.</span></li>
 </ul>
 
 <h2>Project Description</h2>
@@ -42,7 +40,7 @@
   <p>We will make use of some Python libraries in a Jupyter notebook and the knowledge achieved in the course to answer these questions.</p>
 
 <h2>Summary of Results</h2>
-    <p>The results are detailed present in <a href="https://medium.com/@matheusamc/cidade-maravilhosa-when-to-visit-1a35d1ba7e1f">this post</a>.</p>
+    <p>The results are detailed presented in <a href="https://medium.com/@matheusamc/cidade-maravilhosa-when-to-visit-1a35d1ba7e1f">this post</a>.</p>
     
 <h2>Creator</h2>
 <h3>Matheus Campos</h3>
