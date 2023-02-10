@@ -37,7 +37,6 @@
     <li><i>What neighbourhoods have the most listing oportunities?</i></li>
     <li><i>What price is expected to pay in these places during the main events in the city?</i></li>
     <li><i>What time of the year to come paying better prices?</i></li>
-    <li><i>What places to stay paying better prices?</i></li>
   </ul>
 
   <p>We will make use of some Python libraries in a Jupyter notebook and the knowledge achieved in the course to answer these questions.</p>
