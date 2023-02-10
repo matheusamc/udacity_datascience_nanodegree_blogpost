@@ -21,11 +21,11 @@
 
 <h3>Files</h3>
 <ul>
-  <li><a href = "">blog_post_project.ipynb</a><span>: Notebook containing the data analisys and results.</span></li>
-  <li><a href = "">listings.rar</a><span>: Rar file containing csv file of the avaiable listings description and data.</span></li>
-  <li><a href = "">calendar.rar</a><span>: Rar file containing csv file of the avaiable listings data for the year of 2023.</span></li>
-  <li><a href = "">review.rar</a><span>: Rar file containing csv file of the reviews data.</span></li>
-  <li><a href = "">neighbourhoods.rar</a><span>: Rar file containing csv file of the neghborhoods names in Rio.</span></li>
+  <li><a href = "https://github.com/matheusamc/udacity_datascience_nanodegree_blogpost/blob/main/blog_post_project.ipynb">blog_post_project.ipynb</a><span>: Notebook containing the data analisys and results.</span></li>
+  <li><a href = "https://github.com/matheusamc/udacity_datascience_nanodegree_blogpost/blob/main/listings.rar">listings.rar</a><span>: Rar file containing csv file of the avaiable listings description and data.</span></li>
+  <li><a href = "https://github.com/matheusamc/udacity_datascience_nanodegree_blogpost/blob/main/calendar.rar">calendar.rar</a><span>: Rar file containing csv file of the avaiable listings data for the year of 2023.</span></li>
+  <li><a href = "https://github.com/matheusamc/udacity_datascience_nanodegree_blogpost/blob/main/review.rar">review.rar</a><span>: Rar file containing csv file of the reviews data.</span></li>
+  <li><a href = "https://github.com/matheusamc/udacity_datascience_nanodegree_blogpost/blob/main/neighbourhoods.rar">neighbourhoods.rar</a><span>: Rar file containing csv file of the neghborhoods names in Rio.</span></li>
 </ul>
 
 <h2>Project Description</h2>
