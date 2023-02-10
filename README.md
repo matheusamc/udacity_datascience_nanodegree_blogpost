@@ -33,7 +33,7 @@
 
   <ul>
     <li><i>In what neighbourhood to stay in Rio?</i></li>
-    <li><i>What is the mean price someone expect to pay to stay in these places during?</i></li>
+    <li><i>What price weexpected to pay in these places during the main events in the city?</i></li>
     <li><i>What time of the year to come paying better prices?</i></li>
   </ul>
 
@@ -43,7 +43,7 @@
   <p>After analisyng the avaiable data we answered the three questions above:</p>
   <ul>
     <li>The locations with most listing in Airbnb which include Copacabana, Ipanema, Barra da Tijuca, Leblon, Botafogo, Santa Teresa, Centro, Flamengo, Leme and Laranjeiras.</li>
-    <li>The price range to stay in these places go from US$55,00 to US$204,00.</li>
+    <li>During New Years' Eve and Carnival, someone would expect to pay from US$90/day to US$350/day.</li>
     <li>The period from the end of July to the beggining of November is the one with best prices.</li>
   </ul>
   <p>The results are detailed presented in <a href="https://medium.com/@matheusamc/cidade-maravilhosa-when-to-visit-1a35d1ba7e1f">this post</a>.</p>
