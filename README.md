@@ -32,15 +32,21 @@
   <p>This project is part of the requirements of the Udacity Data Science Nanodegree. In this project we want to explorer the avaible data from <a href="http://insideairbnb.com/rio-de-janeiro/">Inside Airbnb</a> for the listings in Rio de Janeiro for the year of 2022. Taking a closer look at this data we expect to answer the following questions:</p>
 
   <ul>
-    <li><i>What neighbourhoods have the most listing oportunities?</i></li>
-    <li><i>What price is expected to pay in these places during the main events in the city?</i></li>
+    <li><i>In what neighbourhood to stay in Rio?</i></li>
+    <li><i>What is the mean price someone expect to pay to stay in these places during?</i></li>
     <li><i>What time of the year to come paying better prices?</i></li>
   </ul>
 
   <p>We will make use of some Python libraries in a Jupyter notebook and the knowledge achieved in the course to answer these questions.</p>
 
 <h2>Summary of Results</h2>
-    <p>The results are detailed presented in <a href="https://medium.com/@matheusamc/cidade-maravilhosa-when-to-visit-1a35d1ba7e1f">this post</a>.</p>
+  <p>After analisyng the avaiable data we answered the three questions above:</p>
+  <ul>
+    <li>The locations with most listing in Airbnb which include Copacabana, Ipanema, Barra da Tijuca, Leblon, Botafogo, Santa Teresa, Centro, Flamengo, Leme and Laranjeiras.</li>
+    <li>The price range to stay in these places go from US$55,00 to US$204,00.</li>
+    <li>The period from the end of July to the beggining of November is the one with best prices.</li>
+  </ul>
+  <p>The results are detailed presented in <a href="https://medium.com/@matheusamc/cidade-maravilhosa-when-to-visit-1a35d1ba7e1f">this post</a>.</p>
     
 <h2>Creator</h2>
 <h3>Matheus Campos</h3>
