@@ -42,16 +42,14 @@
   <p>We will make use of some Python libraries in a Jupyter notebook and the knowledge achieved in the course to answer these questions.</p>
 
 <h2>Summary of Results</h2>
-    <p>Text</p>
+    <p>The results are detailed present in <a href="https://medium.com/@matheusamc/cidade-maravilhosa-when-to-visit-1a35d1ba7e1f>this post</a></p>
     
 <h2>Creator</h2>
-    <p>Text</p>
-
 <h3>Matheus Campos</h3>
   <ul>
     <li><a href="https://br.linkedin.com/in/matheus-de-abreu-monteiro-campos-90506aa2"></a></li>
     <li><a href="https://github.com/matheusamc"></a></li>
   </ul>
   
-<h2>Aknowledgements</h2>
-    <p>Text</p>
+<h2>Acknowledgements</h2>
+    <p>I would like to acknowledge Inside Airbnb for the avaible data.</p>
